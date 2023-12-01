@@ -3,12 +3,13 @@
 let student={"users":{
     
       "id": 1,
-      "first_name": "Robert",
-      "last_name": "Schwartz",
-      "email": "rob23@gmail.com"
+      "first_name": "swornima",
+      "last_name": "mishra",
+      "email": "mishra22@gmail.com"
     }
     }
  //For in:
+
   for(let key in student){
  console.log(student[key].id);
  console.log(student[key].first_name);
